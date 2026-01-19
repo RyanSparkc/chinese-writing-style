@@ -1,0 +1,16 @@
+{
+  "name": "chinese-writing-style",
+  "description": "中文寫作風格指南 Claude Code 插件",
+  "owner": {
+    "name": "Ryan Chan",
+    "url": "https://github.com/RyanSparkc"
+  },
+  "plugins": [
+    {
+      "name": "chinese-writing-style",
+      "description": "中文寫作風格指南 - 提供清晰、簡潔、專業的中文寫作規則與技巧",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
